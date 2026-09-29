@@ -4,7 +4,11 @@
 로그 변환·시간 가중치 전처리 후 XGBoost·LightGBM 앙상블(0.5:0.5)로 2024년 12월 1일 역별·시간대별 승차 수요를 예측했습니다.
 공모전 기관의 실측 대조 결과 **22개 역 MAE 평균 14.3명**.
 
-지역사회 문제해결형 빅데이터/AI 활용 공모전 **총장상** · 5인 팀 · 프로젝트 상세 → [Notion 포트폴리오](노션 링크)
+지역사회 문제해결형 빅데이터/AI 활용 공모전 **총장상** · 5인 팀 
+
+**프로젝트 상세 → [Notion 포트폴리오](https://zany-meeting-aba.notion.site/ee783f9aaedb83f8bc8201316c19546a)**
+
+**발표 자료 → [Google Drive](https://drive.google.com/drive/folders/1Ac1GMCaAklMXE8dvyiYfkBpVHTeQ6yIT)**
 
 ## 핵심 포인트
 - EDA: 출퇴근 피크, 환승·상권 역(1104·1116) 집중, 코로나 이후 회복 추세, 평일·주말 차이
